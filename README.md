@@ -1,3 +1,10 @@
+# Hola!. Me ha llegado el acceso a vuestro repositorio creo que por error. Mi nombre es Ganeko (encantando de conocer a un paisano con el mismo nombre). Suerte!
+
+![Party parrot](http://cultofthepartyparrot.com/parrots/parrot.gif)
+![Party parrot](http://cultofthepartyparrot.com/parrots/parrot.gif)
+![Party parrot](http://cultofthepartyparrot.com/parrots/parrot.gif)
+![Party parrot](http://cultofthepartyparrot.com/parrots/parrot.gif)
+
 # proyecto-Iruneko
 
 Para crear el Modelo Entidad Relación y el Modelo Relacional, hemos utilizado el SQLDeveloper DataModeler Versión 4.1.1.888 (oracle).
